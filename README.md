@@ -33,14 +33,14 @@ As I'm just starting, I'm focusing on building my Python skills and will soon di
 
 Since I'm just starting out, I’ll be working on some exciting projects soon! Keep an eye out for:
 
-- **Basic Python Projects**: Simple scripts and tools to build my Python foundation.
+- **Python Projects**: Simple scripts and tools to build my Python foundation.
 - **AI and Machine Learning Projects**: As I explore AI, expect projects related to data science, machine learning, and more!
 
 ---
 
 ## ✉️ Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/prathinav-avinash-meshram/)
+- [LinkedIn](https://www.linkedin.com/in/prathinav-meshram/)
 - [Email](prathinavameshram@gmail.com)
 
 ---
